@@ -1,6 +1,8 @@
-# Finsweet Developer Starter
+# Developer Starter
 
-A starter template for both Client & Power projects.
+## Textile Creative Studios Notes
+
+This is a starter template for both Client & Power projects. Adapted from Finsweet and customized for Textile Creative Studios Workflows and preferences.
 
 Before starting to work with this template, please take some time to read through the documentation.
 
